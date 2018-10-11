@@ -11,6 +11,8 @@
 # F
 
 # G
+## Glia
+A célula da Glia, juntamente com o Neurônio, é um dos principais componentes celulares do sistema nervoso. São responsáveis pelo suporte metabólico. Kandel - Principios de Neurociência - 5ªEdição
 
 # H
 
