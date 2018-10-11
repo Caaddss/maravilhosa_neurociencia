@@ -1,10 +1,14 @@
 # A
+## Axônio
+
 
 # B
 
 # C
+## Corpo Celular
 
 # D
+## Dendritos
 
 # E
 
@@ -23,6 +27,11 @@ John Martin - Neuroanatomia - 4ª Edição
 # I
 
 # J
+## Junção Comunicante
+Região de contato entre dois neurônios, para sinapses elétricas.
+
+Kandel - Principios de Neurociência - 5ª Edição
+
 
 # L
 
@@ -31,7 +40,7 @@ John Martin - Neuroanatomia - 4ª Edição
 # N
 
 ## Neurônio
-Unidade fundamental do Sistema Nervoso,composta pelo corpo celular, dêndritos e axônio. É uma célula altamente especializada,  responsável pela condução, transmissão e recepção de impulsos nervosos através das sinapses. Ref Principios de Neurociência - Kandel 5ª Edição
+Unidade fundamental do Sistema Nervoso,composta pelo corpo celular,dêndritos, axônio e terminação axônica. É uma célula altamente especializada,  responsável pela condução, transmissão e recepção de impulsos nervosos através das sinapses. Ref Principios de Neurociência - Kandel 5ª Edição
 
 # O
 
